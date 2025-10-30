@@ -42,9 +42,4 @@ To become a globally recognized technology company known for world-class develop
 
 ## How to Contribute
 
-We’re open to collaboration! If you’d like to contribute to Nivet’s open-source projects:
-
-1. **Fork** the repository  
-2. **Create a new branch:**  
-   ```bash
-   git checkout -b feature/your-feature-name
+We’re open to collaboration! If you’d like to contribute to Nivet’s open-source projects
