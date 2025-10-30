@@ -1,36 +1,50 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Nivet
 
-## Getting Started
+**Nivet** is a modern tech company built to engineer digital excellence.  
+We design, develop, and secure scalable software solutions - from full-stack web apps to mobile platforms and cybersecurity systems.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Mission & Vision
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Mission:**  
+To empower businesses and individuals with secure, efficient, and intelligent digital solutions that drive growth and innovation.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+**Vision:**  
+To become a globally recognized technology company known for world-class development, creativity, and security expertise.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Services Offered
 
-To learn more about Next.js, take a look at the following resources:
+- **Full-Stack Web Development** - modern, scalable web apps built with React, Next.js, Node.js, and cloud technologies.  
+- **Mobile App Development** - cross-platform apps that blend performance and simplicity.  
+- **Cybersecurity & Penetration Testing** - vulnerability assessments, secure architecture, and ethical hacking.  
+- **UI/UX & Web Design** - stunning, responsive, user-first designs for brands and startups.  
+- **API & System Integration** - seamless data and service communication across platforms.  
+- **Cloud Deployment & Automation** - DevOps pipelines and scalable infrastructure setups.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Tech Stack
 
-## Deploy on Vercel
+| Category | Technologies |
+|-----------|---------------|
+| **Frontend** | React, Next.js, Tailwind CSS, TypeScript |
+| **Backend** | Node.js, Express, Python (FastAPI, Django) |
+| **Database** | MongoDB, PostgreSQL, MySQL |
+| **Mobile** | React Native, Flutter |
+| **Security Tools** | Burp Suite, Nmap, Metasploit, Wireshark |
+| **DevOps / Cloud** | Docker, AWS, Firebase, Vercel, CI/CD |
+| **Design** | Figma, Adobe XD |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## How to Contribute
+
+We’re open to collaboration! If you’d like to contribute to Nivet’s open-source projects:
+
+1. **Fork** the repository  
+2. **Create a new branch:**  
+   ```bash
+   git checkout -b feature/your-feature-name
